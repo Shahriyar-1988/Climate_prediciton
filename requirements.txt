@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+dotenv
+kagglehub
+seaborn
+darts[all]
